@@ -1,0 +1,4 @@
+X:\DiskForensics\DBobjects\bin\Debug\DBobjects.dll
+X:\DiskForensics\DBobjects\bin\Debug\DBobjects.pdb
+X:\DiskForensics\DBobjects\obj\Debug\DBobjects.dll
+X:\DiskForensics\DBobjects\obj\Debug\DBobjects.pdb

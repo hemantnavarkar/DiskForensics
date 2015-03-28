@@ -1,0 +1,14 @@
+X:\DiskForensics\Factory\bin\x86\Debug\Factory.dll
+X:\DiskForensics\Factory\bin\x86\Debug\Factory.pdb
+X:\DiskForensics\Factory\bin\x86\Debug\Common.dll
+X:\DiskForensics\Factory\bin\x86\Debug\IFactory.dll
+X:\DiskForensics\Factory\obj\x86\Debug\Factory.dll
+X:\DiskForensics\Factory\obj\x86\Debug\Factory.pdb
+D:\WorkArea\DiskForensics\Factory\bin\x86\Debug\Factory.dll
+D:\WorkArea\DiskForensics\Factory\bin\x86\Debug\Factory.pdb
+D:\WorkArea\DiskForensics\Factory\bin\x86\Debug\Common.dll
+D:\WorkArea\DiskForensics\Factory\bin\x86\Debug\IFactory.dll
+D:\WorkArea\DiskForensics\Factory\obj\x86\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\WorkArea\DiskForensics\Factory\obj\x86\Debug\Factory.dll
+D:\WorkArea\DiskForensics\Factory\obj\x86\Debug\Factory.pdb
+X:\DiskForensics\Factory\obj\x86\Debug\Factory.csprojResolveAssemblyReference.cache

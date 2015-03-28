@@ -1,0 +1,10 @@
+X:\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.exe.config
+X:\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.exe
+X:\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.pdb
+X:\DiskForensics\TestDBConnection\obj\Debug\TestDBConnection.exe
+X:\DiskForensics\TestDBConnection\obj\Debug\TestDBConnection.pdb
+D:\WorkArea\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.exe.config
+D:\WorkArea\DiskForensics\TestDBConnection\obj\Debug\TestDBConnection.exe
+D:\WorkArea\DiskForensics\TestDBConnection\obj\Debug\TestDBConnection.pdb
+D:\WorkArea\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.exe
+D:\WorkArea\DiskForensics\TestDBConnection\bin\Debug\TestDBConnection.pdb

@@ -1,0 +1,9 @@
+D:\WorkArea\DiskForensics\QuerryBuilder\bin\Debug\QueryBuilder.dll
+D:\WorkArea\DiskForensics\QuerryBuilder\bin\Debug\QueryBuilder.pdb
+D:\WorkArea\DiskForensics\QuerryBuilder\obj\Debug\QueryBuilder.dll
+D:\WorkArea\DiskForensics\QuerryBuilder\obj\Debug\QueryBuilder.pdb
+X:\DiskForensics\QuerryBuilder\bin\Debug\QueryBuilder.dll
+X:\DiskForensics\QuerryBuilder\bin\Debug\QueryBuilder.pdb
+X:\DiskForensics\QuerryBuilder\bin\Debug\DBobjects.dll
+X:\DiskForensics\QuerryBuilder\obj\Debug\QueryBuilder.dll
+X:\DiskForensics\QuerryBuilder\obj\Debug\QueryBuilder.pdb

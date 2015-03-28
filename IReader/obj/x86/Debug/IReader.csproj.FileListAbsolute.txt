@@ -1,0 +1,12 @@
+X:\DiskForensics\IReader\bin\x86\Debug\IReader.dll
+X:\DiskForensics\IReader\bin\x86\Debug\IReader.pdb
+X:\DiskForensics\IReader\bin\x86\Debug\Common.dll
+X:\DiskForensics\IReader\obj\x86\Debug\IReader.dll
+X:\DiskForensics\IReader\obj\x86\Debug\IReader.pdb
+D:\WorkArea\DiskForensics\IReader\bin\x86\Debug\IReader.dll
+D:\WorkArea\DiskForensics\IReader\bin\x86\Debug\IReader.pdb
+D:\WorkArea\DiskForensics\IReader\bin\x86\Debug\Common.dll
+D:\WorkArea\DiskForensics\IReader\obj\x86\Debug\IReader.csprojResolveAssemblyReference.cache
+D:\WorkArea\DiskForensics\IReader\obj\x86\Debug\IReader.dll
+D:\WorkArea\DiskForensics\IReader\obj\x86\Debug\IReader.pdb
+X:\DiskForensics\IReader\obj\x86\Debug\IReader.csprojResolveAssemblyReference.cache

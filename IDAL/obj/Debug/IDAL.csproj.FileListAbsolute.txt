@@ -1,0 +1,9 @@
+X:\DiskForensics\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+X:\DiskForensics\IDAL\bin\Debug\IDAL.dll
+X:\DiskForensics\IDAL\bin\Debug\IDAL.pdb
+X:\DiskForensics\IDAL\obj\Debug\IDAL.dll
+X:\DiskForensics\IDAL\obj\Debug\IDAL.pdb
+D:\WorkArea\DiskForensics\IDAL\obj\Debug\IDAL.dll
+D:\WorkArea\DiskForensics\IDAL\obj\Debug\IDAL.pdb
+D:\WorkArea\DiskForensics\IDAL\bin\Debug\IDAL.dll
+D:\WorkArea\DiskForensics\IDAL\bin\Debug\IDAL.pdb

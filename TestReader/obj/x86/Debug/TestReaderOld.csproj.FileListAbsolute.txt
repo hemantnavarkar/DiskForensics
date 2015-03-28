@@ -1,0 +1,14 @@
+X:\DiskForensics\TestReader\bin\Debug\TestReader.exe.config
+X:\DiskForensics\TestReader\bin\Debug\TestReader.exe
+X:\DiskForensics\TestReader\bin\Debug\TestReader.pdb
+X:\DiskForensics\TestReader\bin\Debug\Common.dll
+X:\DiskForensics\TestReader\bin\Debug\Factory.dll
+X:\DiskForensics\TestReader\bin\Debug\IFactory.dll
+X:\DiskForensics\TestReader\bin\Debug\IReader.dll
+X:\DiskForensics\TestReader\obj\x86\Debug\TestReader.exe
+X:\DiskForensics\TestReader\obj\x86\Debug\TestReader.pdb
+X:\DiskForensics\TestReader\obj\x86\Debug\TestReaderOld.csprojResolveAssemblyReference.cache
+D:\WorkArea\DiskForensics\TestReader\obj\x86\Debug\TestReaderOld.csprojResolveAssemblyReference.cache
+X:\DiskForensics\TestReader\bin\Debug\DAL.dll
+X:\DiskForensics\TestReader\bin\Debug\DBobjects.dll
+X:\DiskForensics\TestReader\bin\Debug\QueryBuilder.dll

@@ -1,0 +1,11 @@
+D:\WorkArea\DiskForensics\DAL\bin\Debug\DAL.dll
+D:\WorkArea\DiskForensics\DAL\bin\Debug\DAL.pdb
+D:\WorkArea\DiskForensics\DAL\obj\Debug\DAL.dll
+D:\WorkArea\DiskForensics\DAL\obj\Debug\DAL.pdb
+X:\DiskForensics\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+X:\DiskForensics\DAL\bin\Debug\DAL.dll
+X:\DiskForensics\DAL\bin\Debug\DAL.pdb
+X:\DiskForensics\DAL\bin\Debug\DBobjects.dll
+X:\DiskForensics\DAL\bin\Debug\QueryBuilder.dll
+X:\DiskForensics\DAL\obj\Debug\DAL.dll
+X:\DiskForensics\DAL\obj\Debug\DAL.pdb

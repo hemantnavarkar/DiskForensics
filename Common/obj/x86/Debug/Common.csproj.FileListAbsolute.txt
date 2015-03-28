@@ -1,0 +1,10 @@
+X:\DiskForensics\Common\bin\x86\Debug\Common.dll
+X:\DiskForensics\Common\bin\x86\Debug\Common.pdb
+X:\DiskForensics\Common\obj\x86\Debug\Common.dll
+X:\DiskForensics\Common\obj\x86\Debug\Common.pdb
+D:\WorkArea\DiskForensics\Common\bin\x86\Debug\Common.dll
+D:\WorkArea\DiskForensics\Common\bin\x86\Debug\Common.pdb
+D:\WorkArea\DiskForensics\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+D:\WorkArea\DiskForensics\Common\obj\x86\Debug\Common.dll
+D:\WorkArea\DiskForensics\Common\obj\x86\Debug\Common.pdb
+X:\DiskForensics\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache

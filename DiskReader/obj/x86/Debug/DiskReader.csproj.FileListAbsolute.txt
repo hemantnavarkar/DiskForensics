@@ -1,0 +1,14 @@
+X:\DiskForensics\DiskReader\bin\x86\Debug\DiskReader.dll
+X:\DiskForensics\DiskReader\bin\x86\Debug\DiskReader.pdb
+X:\DiskForensics\DiskReader\bin\x86\Debug\Common.dll
+X:\DiskForensics\DiskReader\bin\x86\Debug\IReader.dll
+X:\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.dll
+X:\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.pdb
+D:\WorkArea\DiskForensics\DiskReader\bin\x86\Debug\DiskReader.dll
+D:\WorkArea\DiskForensics\DiskReader\bin\x86\Debug\DiskReader.pdb
+D:\WorkArea\DiskForensics\DiskReader\bin\x86\Debug\Common.dll
+D:\WorkArea\DiskForensics\DiskReader\bin\x86\Debug\IReader.dll
+D:\WorkArea\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.csprojResolveAssemblyReference.cache
+D:\WorkArea\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.dll
+D:\WorkArea\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.pdb
+X:\DiskForensics\DiskReader\obj\x86\Debug\DiskReader.csprojResolveAssemblyReference.cache
