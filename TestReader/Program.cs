@@ -27,6 +27,9 @@ namespace TestReader
         }
 
 
+        /// <summary>
+        /// This will add the case details 
+        /// </summary>
         static void AddCaseRecordToDB()
         {
             for (int i = 0; i < 100; i++)
